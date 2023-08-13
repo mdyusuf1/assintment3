@@ -1,0 +1,85 @@
+.body{
+background-image:url("../Assignment-3-main/Photos/bannar.png");
+
+}
+ 
+
+.navber{display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;}
+  
+
+
+/* .container > div> card {
+  display: flex;
+  grid-template-columns: 180px 180px;
+  justify-content: center;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bootstarp Assaintment</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <img src="./Photos/bannar.png">
+  
+        <div class="container-fluid vertical-align:middle">
+          <a class="navbar-brand" href="#">Foodgram</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupported Content" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Packegs</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Review
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">About Us</a></li>
+                  <li><a class="dropdown-item" href="#">Contact Us</a></li>
+                  <!-- <li><hr class="dropdown-divider"></li> -->
+                  <li><a class="dropdown-item" href="#">Contact Us</a></li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <!-- <a class="nav-link disabled" aria-disabled="true">Disabled</a> -->
+              </li>
+            </ul>
+           
+            <!-- <form class="d-flex" role="search">
+              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-success" type="submit">Search</button>
+            </form> -->
+          </div>
+        </div>
+      </nav>
+</body>
+</html> */
